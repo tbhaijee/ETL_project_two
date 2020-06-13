@@ -9,7 +9,7 @@ Extract, transform and load data to answer below questions:
 * Literacy rate impact on suicide rate in European countries
 * Literacy rate, adult total (% of people ages 15 and above) on suicide rate
 
-The database schema was defined using https://app.quickdatabasediagrams.com/#/ as follows:
+The database schema was defined using app.quickdatabasediagrams.com as follows:
 
 ![alt text](https://github.com/tbhaijee/project_two/blob/master/SQL%20Files/QuickDBD-ETL_project.png)
 
