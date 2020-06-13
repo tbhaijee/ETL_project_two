@@ -37,7 +37,7 @@ First the following 2 data sources were loaded. Csv files can be found in the Re
 ## LOAD
 * Tables were defined and created in PostgreSQL database
 
-* Load data using output csv files from Pandas
+* Load data using output csv files for suicide and literacy information from Pandas
 
 * Join data from suicide table and literacy table
 
