@@ -22,11 +22,18 @@ First the following 2 data sources were loaded. Csv files can be found in the Re
 
 
 ## TRANSFORM
-* Remove all unnecessary columns
 
-* Perform data cleanup
+* Perform data cleanup, remove all unnecessary columns, only keep Country, Year, Sex, Age and Suicide Rate
 
 * Group literacy rate by country, then by year
 
+* Get unique country, sex, year values from master file using unique() function
+
+* Count country, year values using len() function
+
 ## LOAD
-Since the tables have been precreated in postgreSQL, loading of the data can happen only once (or primary keys will be violated). A test query combining all tables shows it worked correctly.
+* Tables were defined and created in PostgreSQL
+
+* Load data using output csv files from Pandas
+
+
