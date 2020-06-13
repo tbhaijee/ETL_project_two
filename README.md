@@ -1,5 +1,7 @@
 # Project 2: ETL Challenge
 
+_report writing in progress
+
 Members: Tasneem Bhaijee , Hung Nguyen
 
 Project Objective: Extract, transform and load data to answer below questions:
