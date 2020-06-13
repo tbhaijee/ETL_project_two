@@ -15,10 +15,11 @@ The database schema was defined using https://app.quickdatabasediagrams.com as f
 
 First the following 2 data sources were loaded. Csv files can be found in the Resources folder
 
-* edat_lfse_03_1_Data.csv - Data source: https://data.worldbank.org/indicator/SE.ADT.LITR.ZS
-
-* master.csv - Data source: https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016?select=master.csv
-
+* Master file - Data source: https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016?select=master.csv 
+* Population by educational attainment level, sex and age (%) - main indicators [edat_lfse_03] - Data source: Eurostat
+* Literacy rate, adult total (% of people ages 15 and above) - Data source: https://data.worldbank.org/indicator/SE.ADT.LITR.ZS
+* datasets_23752_30346_countries of the world - Data source: Worldbank
+* Country rank order - Data source: https://www.cia.gov/library/publications/the-world-factbook/rankorder/rawdata_2127.txt
 
 ## TRANSFORM
 
