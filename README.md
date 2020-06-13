@@ -28,11 +28,13 @@ Data analysis and transformation were performed using Python's Pandas, OS librar
 
 * Perform data cleanup, remove all unnecessary columns, only keep relevant information regarding Country, Year, Sex, Age and Suicide Rate
 
-* Group literacy rate by country, then by year
+* Group literacy rate by country, then by year using melt() function
 
 * Get unique country, sex, year values from master file using unique() function
 
 * Count country, year values using len() function
+
+* Export output data to csv files for loading into PostgreSQL database
 
 ## LOAD
 * Tables were defined and created in PostgreSQL
