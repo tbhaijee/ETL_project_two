@@ -1,8 +1,6 @@
 # Project 2: ETL Challenge
 
-_(report writing in progress)_
-
-Members: Tasneem Bhaijee , Hung Nguyen
+This project was completed by Tasneem Bhaijee and Hung Nguyen
 
 ## Project Objectives: 
 Extract, transform and load data to answer below questions:
@@ -37,8 +35,13 @@ Data analysis and transformation were performed using Python's Pandas, OS librar
 * Export output data to csv files for loading into PostgreSQL database
 
 ## LOAD
-* Tables were defined and created in PostgreSQL
+* Tables were defined and created in PostgreSQL database
 
 * Load data using output csv files from Pandas
+
+* Join data from suicide table and literacy table
+
+* Perform queries and get insights from resulting data
+
 
 
