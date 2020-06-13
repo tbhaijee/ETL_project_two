@@ -44,9 +44,6 @@ Extract and load information from multiple data sources
 
 * Perform queries and get insights from resulting data
 
-
-## __The following tables and graphs help visualize the whole ETL process:__
-
 ![alt text](https://github.com/tbhaijee/project_two/blob/master/Images/image1.png)
 
 ![alt text](https://github.com/tbhaijee/project_two/blob/master/Images/image2.png)
