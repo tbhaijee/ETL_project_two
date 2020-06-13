@@ -24,7 +24,7 @@ First the following 2 data sources were loaded. Csv files can be found in the Re
 
 * Remove all unnecessary columns, only keep relevant information regarding country, year, sex, age group and suicide rate
 
-* Perform cleanup on literacy data
+* Perform cleanup on literacy data, remove irrelevant columns and records with null values
 
 * Group literacy rate by country, then by year using melt() function
 
