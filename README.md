@@ -16,13 +16,17 @@ The database schema was defined using quickdatabasediagrams.com as follows:
 
 First the following 2 data sources were loaded. Csv files can be found in the Resources folder
 
-edat_lfse_03_1_Data.csv - Data source: kaggle.com
+* edat_lfse_03_1_Data.csv - Data source: kaggle.com
 
-master.csv - Data source: kaggle.com
+* master.csv - Data source: kaggle.com
 
 
 ## TRANSFORM
+* Remove all unnecessary columns
 
+* Perform data cleanup
+
+* Group literacy rate by country, then by year
 
 ## LOAD
 Since the tables have been precreated in postgreSQL, loading of the data can happen only once (or primary keys will be violated). A test query combining all tables shows it worked correctly.
