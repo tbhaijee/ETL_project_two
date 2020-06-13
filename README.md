@@ -17,9 +17,9 @@ The database schema was defined using https://app.quickdatabasediagrams.com/#/ a
 
 First the following 2 data sources were loaded. Csv files can be found in the Resources folder
 
-* edat_lfse_03_1_Data.csv - Data source: kaggle.com
+* edat_lfse_03_1_Data.csv - Data source: https://www.kaggle.com/
 
-* master.csv - Data source: kaggle.com
+* master.csv - Data source: https://www.kaggle.com/
 
 
 ## TRANSFORM
