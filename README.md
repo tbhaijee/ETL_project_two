@@ -1,6 +1,6 @@
 # Project 2: ETL Challenge
 
-_report writing in progress
+_report writing in progress_
 
 Members: Tasneem Bhaijee , Hung Nguyen
 
