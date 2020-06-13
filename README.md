@@ -10,9 +10,9 @@ Project Objective: Extract, transform and load data to answer below questions:
 
 The database schema was defined quickdatabasediagrams.com as follows:
 
-!(https://github.com/tbhaijee/project_two/blob/master/SQL%20Files/QuickDBD-ETL_project.png)
+![alt text](https://github.com/tbhaijee/project_two/blob/master/SQL%20Files/QuickDBD-ETL_project.png)
 
-###EXTRACT
+### EXTRACT
 
 First the following 2 data sources were loaded. Csv files can be found in the Resources folder
 
@@ -20,8 +20,8 @@ edat_lfse_03_1_Data.csv - Data source: kaggle.com
 master.csv - Data source: kaggle.com
 
 
-###TRANSFORM
+### TRANSFORM
 
 
-###LOAD
+### LOAD
 Since the tables have been precreated in postgreSQL, loading of the data can happen only once (or primary keys will be violated). A test query combining all tables shows it worked correctly.
