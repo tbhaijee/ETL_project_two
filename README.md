@@ -13,7 +13,7 @@ The database schema was defined using https://app.quickdatabasediagrams.com as f
 
 ## EXTRACT
 
-Extract and load information from multiple data sourcees
+Extract and load information from multiple data sources
 
 * Master file - Data source: https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016?select=master.csv 
 * Population by educational attainment level, sex and age (%) - main indicators [edat_lfse_03] - Data source: Eurostat
