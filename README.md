@@ -4,7 +4,8 @@ _(report writing in progress)_
 
 Members: Tasneem Bhaijee , Hung Nguyen
 
-Project Objective: Extract, transform and load data to answer below questions:
+## Project Objectives: 
+Extract, transform and load data to answer below questions:
 * Literacy rate impact on suicide rate in European countries
 * Literacy rate, adult total (% of people ages 15 and above) on suicide rate
 
