@@ -22,9 +22,9 @@ First the following 2 data sources were loaded. Csv files can be found in the Re
 
 ## TRANSFORM
 
-Data analysis and transformation were performed using Python's Pandas, OS libraries via Jupyter Notebook.
+* Remove all unnecessary columns, only keep relevant information regarding country, year, sex, age group and suicide rate
 
-* Perform data cleanup, remove all unnecessary columns, only keep relevant information regarding Country, Year, Sex, Age and Suicide Rate
+* Perform cleanup on literacy data
 
 * Group literacy rate by country, then by year using melt() function
 
