@@ -15,9 +15,9 @@ The database schema was defined using https://app.quickdatabasediagrams.com as f
 
 First the following 2 data sources were loaded. Csv files can be found in the Resources folder
 
-* edat_lfse_03_1_Data.csv - Data source: https://www.kaggle.com/
+* edat_lfse_03_1_Data.csv - Data source: https://data.worldbank.org/indicator/SE.ADT.LITR.ZS
 
-* master.csv - Data source: https://www.kaggle.com/
+* master.csv - Data source: https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016?select=master.csv
 
 
 ## TRANSFORM
@@ -43,5 +43,10 @@ First the following 2 data sources were loaded. Csv files can be found in the Re
 
 * Perform queries and get insights from resulting data
 
+__The following images detail the whole ETL process:__
 
+![alt text](https://github.com/tbhaijee/project_two/blob/master/Images/image1.png)
 
+![alt text](https://github.com/tbhaijee/project_two/blob/master/Images/image2.png)
+
+![alt text](https://github.com/tbhaijee/project_two/blob/master/Images/image3.png)
