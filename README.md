@@ -24,7 +24,9 @@ First the following 2 data sources were loaded. Csv files can be found in the Re
 
 ## TRANSFORM
 
-* Perform data cleanup, remove all unnecessary columns, only keep Country, Year, Sex, Age and Suicide Rate
+Data analysis and transformation were performed using Python's Pandas, OS libraries via Jupyter Notebook.
+
+* Perform data cleanup, remove all unnecessary columns, only keep relevant information regarding Country, Year, Sex, Age and Suicide Rate
 
 * Group literacy rate by country, then by year
 
